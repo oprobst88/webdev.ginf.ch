@@ -26,7 +26,7 @@
                         <span class="icon">
                             <i class="fab fa-github"></i>
                         </span>
-                        <span>Github</span>
+                        <span>GitHub</span>
                     </a>
                 </div>
             </div>
