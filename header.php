@@ -22,8 +22,7 @@
                     <a href="https://www.ginf.ch" class="button is-white">
                         <span>ginf.ch</span>
                     </a>
-                    <a href="https://github.com/BulmaTemplates/bulma-templates" target="_blank"
-                       class="button is-white">
+                    <a href="https://github.com/oprobst88/webdev.ginf.ch" class="button is-white">
                         <span class="icon">
                             <i class="fab fa-github"></i>
                         </span>
